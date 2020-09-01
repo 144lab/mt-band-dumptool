@@ -1,0 +1,16 @@
+{
+  "name": "MT-BAND Dump Tool",
+  "short_name": "MT-BAND-Dump",
+  "description": "MT-BAND Dump Tool Utility",
+  "start_url": "/HeatStrokeBandUtils/es1/monitor/dist/",
+  "display": "standalone",
+  "background_color": "#444444",
+  "theme_color": "#cccccc",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "purpose": "maskable any",
+      "sizes": "512x512"
+    }
+  ]
+}
